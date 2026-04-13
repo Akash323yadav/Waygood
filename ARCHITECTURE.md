@@ -1,4 +1,4 @@
-# Architecture Document: AI Task Processing Platform
+# Architecture Overview: Waygood AI Platform
 
 ## 1. System Overview
 The AI Task Processing Platform is a scalable, distributed system designed to process text-based AI operations asynchronously. The architecture follows a microservices pattern, utilizing a React frontend, Node.js API, Redis-based task queue, and multiple Python workers for processing.
